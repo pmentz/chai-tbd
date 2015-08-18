@@ -1,6 +1,6 @@
 {
   "name": "chai-tbd",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An extension for chai to create failing *to be done* tasks.",
   "main": "index.js",
   "scripts": {
